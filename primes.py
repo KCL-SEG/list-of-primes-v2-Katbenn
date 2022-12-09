@@ -18,4 +18,4 @@ while len(list) < number_of_primes:
         else:
             list.append(index)
     index += 1
-return
+return list
